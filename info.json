@@ -1,16 +1,15 @@
 {
     "name": "stacked-space-science",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Stacked Space Science",
     "author": "zombieland4942",
     "contact": "",
     "homepage": "",
-    "factorio_version": "0.18",
-    "dependencies": [
-        "base >= 0.18",
-        "deadlock-beltboxes-loaders >= 2.3.5",
-        "deadlock_stacked_recipes >= 0.4.2",
-        "DeadlockStackingForVanilla >= 0.0.3"
+    "factorio_version": "1.1",
+    "dependencies": [        
+        "deadlock-beltboxes-loaders >= 2.4.0",
+        "deadlock_stacked_recipes >= 1.2.3",
+        "DeadlockStackingForVanilla >= 1.1.0"
     ],
     "description": "This mod adds a new rocket silo with a receipe to make stacked space science as well recipes to craft stacked satellites, allowing you to generate 1000 stacked space science per launch. Note: If you launch the stacked satellite in a regular rocket silo, you will only get 1000 normal space science."
 }
